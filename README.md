@@ -1,5 +1,5 @@
 # npm_run_dev
-Start npm run dev
+Start $ npm run dev
 
 Follow these steps to set up the project locally on your machine.
 
