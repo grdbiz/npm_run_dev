@@ -1,4 +1,3 @@
-# PROGRESS WIP ~ (Do more asap)
 # npm_run_dev
 Start npm run dev
 
@@ -33,3 +32,10 @@ JavaScript Mastery
 THE PRICEWISE GITHUB
 https://github.com/adrianhajdin/pricewise
 
+
+# PROGRESS WIP ~ (Do more soon)
+MAKE COPIEs ~ Of the "pricewise" project, (As it is, at this point in time) - (Uploaded **HERE** today)
+
+THE YT-VID-INSTRUCTION ~ [VID-Count == Approx 21:35 == WHERE I might resume now()]
+
+now() == 5:15AM TUESDAY 2nd JANUARY 2023
