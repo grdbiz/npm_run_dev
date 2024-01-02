@@ -78,5 +78,7 @@ If the package in the repositories suits your needs, this is all you need to do 
 <div align="center">
         <img width="45%" src="100_CFG_pricewise_VID_count_UPLOAD_github.jpg" alt="About screen" title="About screen"</img>
         <img height="0" width="8px">
-        <img width="45%" src="list.PNG" alt="List screen" title="List screen"></img>
 </div>
+
+![100_CFG_pricewise_VID_count_UPLOAD_github](https://github.com/grdbiz/npm_run_dev/assets/34131495/26415a1c-a671-4b97-878d-d63b5697b838)
+
