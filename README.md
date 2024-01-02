@@ -68,9 +68,15 @@ v10.19.0
 THAT ABOVE ~ (Just a little bit out-dated, but provided the correct install cli-cmd details below)
 
 test@xz97:~$ node -v
-v20.10.0
+<br /> v20.10.0
 
 
 If the package in the repositories suits your needs, this is all you need to do to get set up with Node.js. In most cases, you’ll also want to also install npm, the Node.js package manager. You can do this by installing the npm package with apt:
 
     sudo apt install npm
+
+<div align="center">
+        <img width="45%" src="screen-shots/100_CFG_pricewise_VID_count_UPLOAD_github.jpg" alt="About screen" title="About screen"</img>
+        <img height="0" width="8px">
+        <img width="45%" src="screen-shots/list.PNG" alt="List screen" title="List screen"></img>
+</div>
