@@ -76,7 +76,7 @@ If the package in the repositories suits your needs, this is all you need to do 
     sudo apt install npm
 
 <div align="center">
-        <img width="45%" src="screen-shots/100_CFG_pricewise_VID_count_UPLOAD_github.jpg" alt="About screen" title="About screen"</img>
+        <img width="45%" src="100_CFG_pricewise_VID_count_UPLOAD_github.jpg" alt="About screen" title="About screen"</img>
         <img height="0" width="8px">
-        <img width="45%" src="screen-shots/list.PNG" alt="List screen" title="List screen"></img>
+        <img width="45%" src="list.PNG" alt="List screen" title="List screen"></img>
 </div>
